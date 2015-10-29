@@ -1,0 +1,26 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.banner {
+    position: relative;
+    margin:0 -15px 30px;
+}
+
+.banner img {
+    position: relative;
+    width: 100%;
+}
+
+.banner h2 {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+textarea {
+    resize:vertical;
+    min-height: 100px;
+}
